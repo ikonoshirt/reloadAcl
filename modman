@@ -1,0 +1,4 @@
+app/code/community/Ikonoshirt/ReloadAcl app/code/community/Ikonoshirt/ReloadAcl
+app/design/adminhtml/default/default/layout/ikonoshirt_reloadacl.xml app/design/adminhtml/default/default/layout/ikonoshirt_reloadacl.xml
+app/design/adminhtml/default/default/template/ikonoshirt_reloadacl app/design/adminhtml/default/default/template/ikonoshirt_reloadacl
+app/etc/Ikonoshirt_ReloadAcl.xml app/etc/Ikonoshirt_ReloadAcl.xml

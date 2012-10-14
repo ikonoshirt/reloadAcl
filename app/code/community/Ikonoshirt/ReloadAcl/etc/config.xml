@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<config>
+
+    <modules>
+        <Ikonoshirt_ReloadAcl>
+            <version>0.1.0</version>
+        </Ikonoshirt_ReloadAcl>
+    </modules>
+
+    <global>
+        <blocks>
+            <ikonoshirt_reloadacl>
+                <class>Ikonoshirt_ReloadAcl_Block</class>
+            </ikonoshirt_reloadacl>
+        </blocks>
+
+        <models>
+            <ikonoshirt_reloadacl>
+                <class>Ikonoshirt_ReloadAcl_Model</class>
+            </ikonoshirt_reloadacl>
+        </models>
+    </global>
+
+    <adminhtml>
+        <layout>
+            <updates>
+                <ikonoshirt_reloadacl>
+                    <file>ikonoshirt_reloadacl.xml</file>
+                </ikonoshirt_reloadacl>
+            </updates>
+        </layout>
+    </adminhtml>
+
+</config>

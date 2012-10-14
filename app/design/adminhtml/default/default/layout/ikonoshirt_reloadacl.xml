@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout>
+    <STORE_admin>
+        <reference name="content">
+            <block type="ikonoshirt_reloadacl/reloadAclButton" name="reloadAclButton" />
+        </reference>
+    </STORE_admin>
+</layout>
